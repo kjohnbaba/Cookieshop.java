@@ -1,1 +1,1 @@
-Small constructor/method exercise in java
+Small exercise program in java
